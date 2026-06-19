@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Pastel Purple */
 .theme-base-10 .sidebar {
-  background-color: #d99cff;
+  background-color: #bf88e0;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #d99cff;
+.theme-base-10 .content a,
+.theme-base-10 .related-posts li a:hover {
+  color: #6c2b93;
 }
