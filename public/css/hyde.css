@@ -242,11 +242,11 @@ a.sidebar-nav-item:focus {
 
 /* Brown */
 .theme-base-0f .sidebar {
-  background-color: #7e1bff; /*#8f5536*/
+  background-color: #8f5536;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #23c000;
+  color: #8f5536;
 }
 
 /* Pastel Purple */
