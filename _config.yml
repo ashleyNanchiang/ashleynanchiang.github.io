@@ -6,21 +6,22 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Ashley's Website
-tagline:          'Ashley'
-description:      "UW Madison CS Professional Master's student\n
-                   3D animator in past life"
-# url:              http://hyde.getpoole.com
+title:            Ashley Yuan
+# tagline:          "Ashley's Website"
+description:       | 
+                  University of Wisconsin Madison
+                  CS Masters Student
+                  Formerly a 3D animator
 baseurl:          https://ashleynanchiang.github.io/
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         10
+paginate:         3
 
 # Custom vars
-# version:          2.1.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
