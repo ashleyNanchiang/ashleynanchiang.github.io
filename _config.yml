@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown # redcarpet
+highlighter:      rouge # pygments
+plugins: [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
@@ -8,9 +9,9 @@ permalink:        pretty
 # Setup
 title:            Ashley Yuan
 # tagline:          "Ashley's Website"
-description:       | 
-                  University of Wisconsin Madison
-                  CS Masters Student
+description: |    
+                  University of Wisconsin Madison | 
+                  CS Masters Student | 
                   Formerly a 3D animator
 baseurl:          https://ashleynanchiang.github.io/
 
