@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    width: 22rem;
     text-align: left;
   }
 }
@@ -129,7 +129,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 24rem;
+    margin-left: 26rem;
     margin-right: 2rem;
   }
 }
