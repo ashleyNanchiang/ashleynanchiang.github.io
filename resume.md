@@ -3,6 +3,25 @@ layout: page
 title: Resume
 ---
 
+* [pdf](http://hyde.getpoole.com)
+
+## Education
+### University of Wisconsin Madison
+**Computer Sciences Professional’s Masters (MS)** 
+*Sep 2025 –– Expected 2027*
+- Computer Networks, High Performance Computing, Computer Graphics, Information Security | GPA: 4.0 / 4.0
+**Computer Sciences for Professionals, Capstone Certificate**
+*Jan 2024 –– Dec 2024*
+- Operating Systems, Machine Organization, Database Management Systems | GPA: 4.0 / 4.0
+### National Tsing Hua University
+**Medical Science (BS)**
+*Sep 2013 –– Jun 2017*
+
+## Technical Skills
+
+##
+
+
 <p class="message">
   This will be where I put my resume
   With the full thing on this page, and a pdf link
@@ -12,7 +31,7 @@ In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Je
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
+
 * [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
