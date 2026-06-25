@@ -17,6 +17,10 @@ nav_order: 1
 
     {{ post.excerpt }} 
 
+  <p>
+    <a href="{{ post.url }}">Read More → </a>
+  </p>
+
     {% comment %}
     post.content
     {% endcomment %}
