@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+nav_order: 1
 ---
 
 <div class="posts">
