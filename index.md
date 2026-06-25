@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-<div class="posts">
   <p class="message">
     This will be where I put my resume
     With the full thing on this page, and a pdf link
@@ -29,7 +28,6 @@ title: Home
   Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
   Thanks for reading!
-</div>
 
 
 
