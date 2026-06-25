@@ -15,7 +15,11 @@ nav_order: 1
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }} 
+
+    {% comment %}
+    post.content
+    {% endcomment %}
   </div>
   {% endfor %}
 </div>
