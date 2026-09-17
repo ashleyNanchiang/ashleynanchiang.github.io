@@ -83,12 +83,8 @@ html {
   font-size: 2.25rem;
 }
 
-.sidebar-about p {
-  color: rgba(255,255,255,.7);
-  line-height: 1.5;
-}
 .sidebar-about p .tagline-small {
-  font-size: 0.75rem;
+  font-size: 1.75rem;
   color: rgba(255,255,255,.5);
 }
 
