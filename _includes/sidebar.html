@@ -6,15 +6,11 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">
-        {% assign desc_lines = site.description | strip | split: "\n" %}
-        {% for line in desc_lines %}
-          {% if forloop.last %}
-            <span class="tagline-small">{{ line }}</span>
-          {% else %}
-            {{ line }}<br>
-          {% endif %}
-        {% endfor %}
+      <p class="lead">    
+        {{ site.tagline1 }}<br>
+        {{ site.tagline2 }}<br>
+        <span class="tagline-small">{{ site.tagline3 }}</span>
+        <!-- {{ site.description | newline_to_br }} -->
       </p>
     </div>
 

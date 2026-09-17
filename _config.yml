@@ -10,10 +10,14 @@ permalink:        pretty
 title:            Ashley Yuan
 # tagline:          "Ashley's Website"
 description: |    
+            Computer Science Masters Student
             University of Wisconsin Madison
-            CS Masters Student
             Formerly a 3D animator
 baseurl:          https://ashleynanchiang.github.io/
+
+tagline1: Computer Science Masters Student
+tagline2: University of Wisconsin Madison
+tagline3: Formerly a 3D animator
 
 author:
   name:           'Mark Otto'
