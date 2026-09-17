@@ -120,7 +120,7 @@ a.sidebar-nav-item:focus {
     position: relative;
     width: 100%;
     padding: 0 1rem;
-    margin-top: 3rem; /* increase for more downward shift, decrease for less */
+    margin-top: 5rem; /* increase for more downward shift, decrease for less */
   }
 }
 
