@@ -2,6 +2,15 @@
 layout: default
 title: Home
 ---
+
+  Hi, I'm Ashley.
+
+  I am a Computer Science Masters student at the University of Wisconsin Madison.
+
+  I am currently exploring systems, and this site is where I display what I've created and what I am working on.
+
+
+<!--   
   <p class="message">
     This will be where I put my resume
     With the full thing on this page, and a pdf link
@@ -27,7 +36,7 @@ title: Home
 
   Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-  Thanks for reading!
+  Thanks for reading! -->
 
 
 
