@@ -90,7 +90,7 @@ html {
 }
 
 .sidebar-about p .tagline-small {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 /* Sidebar nav */
 .sidebar-nav {
@@ -118,7 +118,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: relative;
     width: 100%;
-    padding: 0 2rem;
+    padding: 0 1rem;
   }
 }
 
