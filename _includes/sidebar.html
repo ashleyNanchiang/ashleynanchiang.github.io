@@ -6,7 +6,16 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description | newline_to_br }}</p>
+      <p class="lead">
+        {% assign desc_lines = site.description | strip | split: "\n" %}
+        {% for line in desc_lines %}
+          {% if forloop.last %}
+            <span class="tagline-small">{{ line }}</span>
+          {% else %}
+            {{ line }}<br>
+          {% endif %}
+        {% endfor %}
+      </p>
     </div>
 
     <nav class="sidebar-nav">
