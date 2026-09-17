@@ -86,7 +86,7 @@ html {
 }
 
 .sidebar-about p {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .sidebar-about p .tagline-small {
@@ -118,10 +118,9 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: relative;
     width: 100%;
-    padding: 0 1rem;
+    padding: 0 2rem;
   }
 }
-
 
 /* Container
  *
