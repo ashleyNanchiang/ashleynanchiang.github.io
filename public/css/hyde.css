@@ -67,6 +67,8 @@ html {
     bottom: 0;
     width: 22rem;
     text-align: left;
+    display: flex;
+    align-items: center;
   }
 }
 
@@ -80,11 +82,11 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 2.25rem;
+  font-size: 2.5rem;
 }
 
 .sidebar-about p {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .sidebar-about p .tagline-small {
@@ -114,10 +116,9 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    position: relative;
+    width: 100%;
+    padding: 0 1rem;
   }
 }
 
