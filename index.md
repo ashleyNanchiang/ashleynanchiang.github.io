@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+  ![Me looking at Mendota Lake](/ref/about_picture.jpg)
+
   Hi, I'm Ashley.
 
   I am a Computer Science Masters student at the University of Wisconsin Madison.
