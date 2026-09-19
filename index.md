@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-  ![Me looking at Mendota Lake](/ref/about_picture.jpg)
+  ![Me looking at Mendota Lake]({{ site.baseurl }}/ref/about_picture.jpg)
 
   Hi, I'm Ashley.
 
